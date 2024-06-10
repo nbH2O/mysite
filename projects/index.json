@@ -1,0 +1,62 @@
+{
+    "slug1": {
+        "image": "https://placehold.co/600x400",
+        "name": "cheese",
+        "id": 1
+    },
+    "slug2": {
+        "image": "https://placehold.co/600x400",
+        "name": "sauasge",
+        "id": 2
+    },
+    "slug3": {
+        "image": "https://placehold.co/600x400",
+        "name": "cheese",
+        "id": 1
+    },
+    "slug4": {
+        "image": "https://placehold.co/600x400",
+        "name": "sauasge",
+        "id": 2
+    },
+    "slug5": {
+        "image": "https://placehold.co/600x400",
+        "name": "cheese",
+        "id": 1
+    },
+    "slug6": {
+        "image": "https://placehold.co/600x400",
+        "name": "sauasge",
+        "id": 2
+    },
+    "slug7": {
+        "image": "https://placehold.co/600x400",
+        "name": "cheese",
+        "id": 1
+    },
+    "slug8": {
+        "image": "https://placehold.co/600x400",
+        "name": "sauasge",
+        "id": 2
+    },
+    "slug9": {
+        "image": "https://placehold.co/600x400",
+        "name": "cheese",
+        "id": 1
+    },
+    "slug10": {
+        "image": "https://placehold.co/600x400",
+        "name": "sauasge",
+        "id": 2
+    },
+    "slug11": {
+        "image": "https://placehold.co/600x400",
+        "name": "cheese",
+        "id": 1
+    },
+    "slug12": {
+        "image": "https://placehold.co/600x400",
+        "name": "sauasge",
+        "id": 2
+    }
+}
